@@ -1,1 +1,1 @@
-# DBMS-practice
+# Some implementations and practice of DBMS projects.
